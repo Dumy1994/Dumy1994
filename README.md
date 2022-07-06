@@ -1,7 +1,7 @@
 ### Here is What I'm working on! 👋
 
 
-- 🔭 I’m currently working on personal website: https://www.traveltogetherme.com/
+- 🔭 I’m currently working on personal project: https://www.traveltogetherme.com/
       I'm using (Php, Laravel, JavaScript, VueJs)
 - 🌱 I’m currently learning React
 - 📫 How to reach me: https://www.linkedin.com/in/dumitru-budau-80366a243/
