@@ -6,4 +6,5 @@
 -Skill 
 - ⚡ Favorite quote: “Imagine that in order to have a great life you have to cross a dangerous jungle. You can stay safe where you are and have an ordinary      life, or you can risk crossing the jungle to have a terrific life." ― Ray Dalio, Principles: Life and Work!
 
-![Senza nome(1)](https://user-images.githubusercontent.com/98266676/177570104-b23fbd03-458f-4f45-903c-dd49b766c812.jpg)
+
+![Senza nome(2)](https://user-images.githubusercontent.com/98266676/177571044-c5a9dc48-6be6-47fe-a40b-a7824ce731be.jpg)
