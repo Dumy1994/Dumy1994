@@ -1,5 +1,5 @@
 
-------Here is What I'm working on! 👋
+------ { Here is What I'm working on! 👋 } ------
 - 🔭 I’m currently working on personal project: https://www.traveltogetherme.com/
 - 🌱 I’m currently learning React
 - 📫 How to find me: https://www.linkedin.com/in/dumitru-budau-80366a243/
