@@ -1,123 +1,141 @@
 <div align="center">
 
-# 👋 Ciao, sono Dumitru Budau
+# Hi there 👋 I'm Dumitru Budau
 
-### Full Stack Developer • Web Designer • Software Developer
+### Full Stack Software Developer
 
 <p>
-Creo applicazioni web moderne, e-commerce, software gestionali e soluzioni digitali su misura.
+I build modern web applications, business management software, e-commerce platforms and custom digital solutions.
 </p>
 
 <p>
-<a href="https://www.passionedev.it" target="_blank">🌐 Website</a> •
-<a href="https://github.com/TUO_USERNAME">💻 GitHub</a> •
-<a href="https://linkedin.com/in/TUO_PROFILO">💼 LinkedIn</a>
+
+<a href="https://www.linkedin.com/in/dumitru-budau-0b4625244/">LinkedIn</a> •
+<a href="https://www.passionedev.it">Portfolio</a>
+
 </p>
 
-<img src="https://raw.githubusercontent.com/TUO_USERNAME/TUO_USERNAME/main/banner.png" width="100%" alt="Banner"/>
+<img src="banner.png" width="100%" alt="Banner">
+
+<br>
+
+![Open To Work](https://img.shields.io/badge/Open%20To%20Work-28a745?style=for-the-badge)
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge)
+![Based in Italy](https://img.shields.io/badge/Based-Italy-red?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Chi sono
+# 👨‍💻 About Me
 
-Sono uno sviluppatore Full Stack con esperienza nello sviluppo di:
+I'm a passionate **Full Stack Software Developer** with experience building scalable web applications and custom software.
 
-- 🌐 Siti Web moderni
-- 🛒 E-commerce
-- 📊 Software gestionali
-- ⚙️ API REST
-- 📱 Applicazioni Web
-- ☁️ Soluzioni Cloud
-- 📈 Google Ads & Marketing Automation
+I enjoy turning ideas into real products with clean code, modern technologies and intuitive user experiences.
 
-Mi piace creare software veloce, moderno e con un'ottima esperienza utente.
+Currently I'm **open to new opportunities** as a **Software Developer / Full Stack Developer**.
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+- Java
+- PHP
+- Node.js
+- REST API
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+- MySQL
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify)
+- Git
+- Docker
+- VS Code
+- Shopify
+- Google Ads
 
 ---
 
-# 📈 GitHub Stats
+# 🌟 Featured Projects
 
-<p align="center">
+## 🚰 Hidro Power
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=github_dark"/>
+Modern corporate website developed for a company operating in the hydraulic and industrial sector.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=github_dark"/>
-
-</p>
+🔗 https://hidro-power.it
 
 ---
 
-# 🔥 Streak
+## 🚗 Passione Detailing
 
-<p align="center">
+Professional website developed for an automotive detailing company.
 
-<img src="https://streak-stats.demolab.com?user=TUO_USERNAME&theme=github-dark"/>
-
-</p>
+🔗 https://www.passionedetailing.it
 
 ---
 
-# 🌍 I miei progetti
+## 💼 PassioneDev
 
-🚀 **PassioneDev**
+Personal brand focused on creating:
 
-Sviluppo di:
-
-- Software gestionali
+- Business software
+- Websites
 - E-commerce
-- Landing Page
 - CRM
-- Siti aziendali
+- Web applications
 - Google Ads
 - Social Media
 
-🌐 https://www.passionedev.it
+🔗 https://www.passionedev.it
 
 ---
 
-# 📫 Contatti
+# 📊 GitHub Stats
 
-📧 Email: tua@email.it
+<p align="center">
 
-🌐 https://www.passionedev.it
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
 
-💼 LinkedIn: https://linkedin.com/in/TUO_PROFILO
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/dumitru-budau-0b4625244/
+- 🌍 Website: https://www.passionedev.it
 
 ---
 
 <div align="center">
 
-### Grazie per la visita! ⭐
+### Thanks for visiting my profile!
 
-Se ti piacciono i miei progetti lascia una ⭐ ai repository.
+⭐ Feel free to explore my repositories and leave a star if you like my work.
 
 </div>
