@@ -1,132 +1,87 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;React+%7C+%7C+Java+%7C+PHP;Building+Modern+Web+Applications" />
+
 <div align="center">
 
-# Hi there 👋 I'm Dumitru Budau
+# 👋 Hi, I'm Dumitru Budau
 
 ### Full Stack Software Developer
 
-<p>
-I build modern web applications, business management software, e-commerce platforms and custom digital solutions.
-</p>
-
-<p>
-
-<a href="https://www.linkedin.com/in/dumitru-budau-0b4625244/">LinkedIn</a> •
-<a href="https://www.passionedev.it">Portfolio</a>
-
-</p>
-
-<img src="banner.png" width="100%" alt="Banner">
+Building modern web applications, custom software and digital solutions.
 
 <br>
 
-![Open To Work](https://img.shields.io/badge/Open%20To%20Work-28a745?style=for-the-badge)
-![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge)
-![Based in Italy](https://img.shields.io/badge/Based-Italy-red?style=for-the-badge)
+<a href="https://www.linkedin.com/in/dumitru-budau-0b4625244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=dumy1994&style=for-the-badge"/>
+
+<br><br>
+
+<img src="banner.png" width="100%" alt="Banner">
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a passionate **Full Stack Software Developer** with experience building scalable web applications and custom software.
+I'm a passionate **Full Stack Software Developer** with over **5 years of experience** developing web applications, business software and digital solutions.
 
-I enjoy turning ideas into real products with clean code, modern technologies and intuitive user experiences.
+I enjoy transforming ideas into scalable, efficient and user-friendly products while continuously learning new technologies.
 
-Currently I'm **open to new opportunities** as a **Software Developer / Full Stack Developer**.
-
----
-
-# 🚀 Tech Stack
-
-### Frontend
-
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-
-### Backend
-
-- Java
-- PHP
-- Node.js
-- REST API
-
-### Database
-
-- MySQL
-
-### Tools
-
-- Git
-- Docker
-- VS Code
-- Shopify
-- Google Ads
+- 💻 Full Stack Software Developer
+- 🌍 Based in Italy
+- ⚙️ Specialized in Web Applications & REST APIs
+- 🚀 Performance & SEO Optimization
+- 📱 Responsive UI/UX
+- 📚 Always learning new technologies
+- 💼 **Open to Work**
 
 ---
 
-# 🌟 Featured Projects
+# 🛠️ Tech Stack
 
-## 🚰 Hidro Power
+<div align="center">
 
-Modern corporate website developed for a company operating in the hydraulic and industrial sector.
+<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,java,php,laravel,nodejs,mysql,html,css,docker,git,github,vscode,idea&perline=8"/>
 
-🔗 https://hidro-power.it
+<br><br>
 
----
+<img src="https://go-skill-icons.vercel.app/api/icons?i=googleads,tiktok"/>
 
-## 🚗 Passione Detailing
-
-Professional website developed for an automotive detailing company.
-
-🔗 https://www.passionedetailing.it
+</div>
 
 ---
 
-## 💼 PassioneDev
+# 💼 What I Do
 
-Personal brand focused on creating:
-
-- Business software
-- Websites
-- E-commerce
-- CRM
-- Web applications
-- Google Ads
-- Social Media
-
-🔗 https://www.passionedev.it
+- 🌐 Websites
+- 💼 Business Management Software
+- 📱 Web Applications
+- 🔌 REST API Development
+- ⚙️ Custom Software Solutions
+- 🎨 Responsive UI/UX
+- 🚀 Performance Optimization
 
 ---
 
-# 📊 GitHub Stats
+# 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+<a href="https://www.linkedin.com/in/dumitru-budau-0b4625244/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
-
-</p>
-
-
----
-
-# 📫 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/dumitru-budau-0b4625244/
-- 🌍 Website: https://www.passionedev.it
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-⭐ Feel free to explore my repositories and leave a star if you like my work.
+Feel free to connect with me on LinkedIn.
 
 </div>
