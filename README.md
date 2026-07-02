@@ -10,7 +10,7 @@ Building modern web applications, custom software and digital solutions.
 
 <br>
 
-<a href="https://www.linkedin.com/in/dumitru-budau-0b4625244/">
+<a href="https://www.linkedin.com/in/dumitru-budau/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -79,7 +79,7 @@ I enjoy transforming ideas into scalable, efficient and user-friendly products w
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dumitru-budau-0b4625244/">
+<a href="https://www.linkedin.com/in/dumitru-budau/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
