@@ -66,6 +66,15 @@ I enjoy transforming ideas into scalable, efficient and user-friendly products w
 
 ---
 
+## 💼 Professional Experience
+
+- 🧑‍💻 5+ years of professional software development
+- 🔒 Daily work on private enterprise repositories
+- 🌐 Development of web applications, APIs and business software
+- 🚀 Open to new opportunities
+
+---
+
 # 📫 Connect With Me
 
 <div align="center">
